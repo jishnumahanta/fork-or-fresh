@@ -2,6 +2,14 @@
 
 An [Agent Skill](https://agentskills.io) that stops your coding agent from rebuilding things that already exist.
 
+<p align="center">
+  <a href="https://github.com/jishnumahanta/fork-or-fresh/raw/main/assets/fork-or-fresh.mp4">
+    <img src="assets/demo.gif" alt="Search GitHub, compare the top three by license, last commit and stars, then fork or build fresh" width="480">
+  </a>
+  <br>
+  <sub>▶ <a href="https://github.com/jishnumahanta/fork-or-fresh/raw/main/assets/fork-or-fresh.mp4">Watch the full 33-second video (with sound)</a></sub>
+</p>
+
 Before it builds something new, the agent searches GitHub for open-source projects that already do the job,
 compares the top 3 by **license**, **last commit** and **stars**, and asks you one question:
 
@@ -65,6 +73,19 @@ GitHub's public search API.
 - **No license:** you can't legally reuse it.
 
 This is not legal advice; read the project's LICENSE.
+
+## Made by
+
+**Jishnu Mahanta**, full-stack, IoT and AI engineer from Assam, India.
+
+[Website](https://www.jishnumahanta.in) ·
+[GitHub](https://github.com/jishnumahanta) ·
+[X](https://x.com/jishnumahanta17) ·
+[LinkedIn](https://www.linkedin.com/in/jishnumahanta) ·
+[Threads](https://www.threads.com/@mahantajishnu) ·
+[Instagram](https://www.instagram.com/jishnubuilds/)
+
+If this saves you a weekend, a ⭐ helps other people find it.
 
 ## License
 
