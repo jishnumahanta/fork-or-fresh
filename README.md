@@ -2,7 +2,7 @@
 
 An [Agent Skill](https://agentskills.io) that stops your coding agent from rebuilding things that already exist.
 
-https://github.com/user-attachments/assets/4ec06fc0-ac25-402a-9e64-2dd76d69fbbd
+https://github.com/user-attachments/assets/fbdd73aa-559a-42e2-8ed6-2f8d94c91a7f
 
 Before it builds something new, the agent searches GitHub for open-source projects that already do the job,
 compares the top 3 by **license**, **last commit** and **stars**, and asks you one question:
