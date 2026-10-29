@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fork-or-fresh",
+  "displayName": "Fork or fresh?",
+  "version": "1.0.0",
+  "description": "Before building something new, search GitHub for open-source projects that already do it, compare the top 3 (license, last commit, stars) and decide: fork one, or build fresh.",
+  "author": { "name": "Jishnu Mahanta", "url": "https://www.jishnumahanta.in" },
+  "homepage": "https://github.com/jishnumahanta/fork-or-fresh",
+  "repository": "https://github.com/jishnumahanta/fork-or-fresh",
+  "license": "MIT",
+  "keywords": ["github", "open-source", "reuse", "planning", "skills"]
+}

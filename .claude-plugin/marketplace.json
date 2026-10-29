@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "fork-or-fresh",
+  "owner": { "name": "Jishnu Mahanta", "url": "https://www.jishnumahanta.in" },
+  "description": "Search GitHub before you build.",
+  "plugins": [
+    {
+      "name": "fork-or-fresh",
+      "source": "./",
+      "description": "Before building something new, search GitHub for existing open-source projects, compare the top 3 and decide: fork or build fresh.",
+      "author": { "name": "Jishnu Mahanta" },
+      "homepage": "https://github.com/jishnumahanta/fork-or-fresh",
+      "license": "MIT",
+      "keywords": ["github", "open-source", "reuse", "planning"]
+    }
+  ]
+}
